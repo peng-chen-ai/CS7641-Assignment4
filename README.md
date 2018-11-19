@@ -8,7 +8,7 @@ Georgia Tech CS7641 -Markov Decision Process
 - 1.2 Install OpenAI gym\
 
 2.Code link:\
-	
+	https://github.com/pumapeng/CS7641-Assignment4\
 3.Policy Iteration and value iteration code\
 - 3.1 Code name:mdp.py\
 - 3.2 Execute the mdp.py and pick the result from "Frozen Lake Large" and Taxi\
