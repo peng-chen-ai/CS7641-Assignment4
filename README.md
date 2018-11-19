@@ -20,10 +20,13 @@ Georgia Tech CS7641 -Markov Decision Process
 - 4.1 Frozen Lake
 		4.1.1 Code Name: q_learning_frozen_lake.py
 		4.1.2 Chose the number of iteration and then Execute the code
-- 4.2 Taxi-v2\
+		
+- 4.2 Taxi-v2
 		4.2.1 Code Name: Q_learning_sarsmax.py
 		4.2.2 Chose the number of iteration and then Execute the code
+		
 - 4.3 Discount factor analysis
-		Chose the discount factor gamma that you want to test from 4.1 and 4.2, and then run the codes\
+		Chose the discount factor gamma that you want to test from 4.1 and 4.2, and then run the codes
+		
 - 4.4 learning rate analysis
-		Chose the learning rate value that you want to test from 4.2 and 4.2, and then run the codes\
+		Chose the learning rate value that you want to test from 4.2 and 4.2, and then run the codes
