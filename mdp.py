@@ -151,19 +151,18 @@ def run_discrete(environment_name, mapping, shape=None):
         print
 
     return policy
-'''
+
 # FROZEN LAKE SMALL
 mapping = {0: "L", 1: "D", 2: "R", 3: "U"}
 shape = (4, 4)
 run_discrete('FrozenLake-v0', mapping, shape)
 
-'''
-'''
+
 # FROZEN LAKE LARGE
 mapping = {0: "L", 1: "D", 2: "R", 3: "U"}
 shape = (8, 8)
 run_discrete('FrozenLake8x8-v0', mapping ,shape)
-'''
+
 # TAXI
 mapping = {0: "S", 1: "N", 2: "E", 3: "W", 4: "P", 5: "D"}
 run_discrete('Taxi-v2', mapping)
