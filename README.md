@@ -2,6 +2,7 @@
 Markov Decision Process
 
 Georgia Tech CS7641 -Markov Decision Process
+
 #1. Software environment preparation
 	##1.1 Python 3.6
 	##1.2 Install OpenAI gym
