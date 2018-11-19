@@ -9,11 +9,13 @@ Georgia Tech CS7641 -Markov Decision Process
 
 2.Code link:\
 	https://github.com/pumapeng/CS7641-Assignment4\
+	
 3.Policy Iteration and value iteration code\
 - 3.1 Code name:mdp.py\
 - 3.2 Execute the mdp.py and pick the result from "Frozen Lake Large" and Taxi\
 - 3.3 Description: it will generate the number of iteration and running time for value iteration and policy iteration for one state \for each problem\
 -3.4 For Taxi V2 comparision, run the Taxi-v2 part multiple time for different start states and average the results.\
+
 4. Q-learning implementation\
 - 4.1 Frozen Lake\
 		4.1.1 Code Name: q_learning_frozen_lake.py\
