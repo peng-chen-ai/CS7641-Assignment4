@@ -29,4 +29,4 @@ Georgia Tech CS7641 -Markov Decision Process
 		Chose the discount factor gamma that you want to test from 4.1 and 4.2, and then run the codes
 		
 - 4.4 learning rate analysis\
-		Chose the learning rate value that you want to test from 4.2 and 4.2, and then run the codes
+		Chose the learning rate value that you want to test from 4.1 and 4.2, and then run the codes
